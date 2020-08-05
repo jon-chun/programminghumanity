@@ -1,4 +1,13 @@
-### Current Interests
+## Current Project
+
+- AI in the Writers Room 
+- 7 Aug 2020 
+- [HumCog2020: Humanities + Cognitive Science](https://cog.osu.edu/programs/humanities-and-cognitive-sciences-summer-institute)
+- Sponsored by OSU Office of Diversity and Inclusion
+- [Presentation ...Coming](https://github.com/programminghumanity/programminghumanity/)
+- [Lab Links](https://aiforthehumanities.wordpress.com/osu-humcog-2020/)
+
+### Professional Interests
 
 - Researching NLP, AffectiveAI and ML/AI in general
 - Collaboration across domains and disciplines
