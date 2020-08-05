@@ -52,4 +52,4 @@ Coming...
 [twitter]: https://twitter.com/jonchun2000
 [youtube]: https://www.youtube.com/channel/UCjHi7EsDSnfIcv6RUfYjM-g/videos?view_as=subscriber
 [instagram]: https://www.instagram.com/jonchun2000/
-[linkedin]: www.linkedin.com/in/jonchun2000
+[linkedin]: https://www.linkedin.com/in/jonchun2000
