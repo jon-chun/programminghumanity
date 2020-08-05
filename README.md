@@ -39,7 +39,7 @@ Coming...
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Learn Python Programming this Summer](https://programminghumanity.wordpress.com/2019/05/01/learn-python-and-programming/)
-- [Statistics vs ML]](https://programminghumanity.wordpress.com/2019/09/12/statistics-vs-ml/)
+- [Statistics vs ML](https://programminghumanity.wordpress.com/2019/09/12/statistics-vs-ml/)
 - [Best Jupyter Notebooks for ML in Python](https://programminghumanity.wordpress.com/2019/09/05/best-jupyter-notebooks-for-ml-in-python/)
 - [AI Without a Face](https://programminghumanity.wordpress.com/2019/08/13/ai-poker-faceless/)
 - [AI Matures Beyond Computer Science](https://programminghumanity.wordpress.com/2019/07/27/ai-matures-beyond-computer-science/)
