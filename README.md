@@ -9,7 +9,7 @@
 
 ### Professional Interests
 
-- Researching NLP, AffectiveAI and ML/AI in general
+- Research in NLP, AffectiveAI and ML/AI in general
 - Collaboration across domains and disciplines
 - Mentoring students on multidisciplinary, interesting and relevant ML/AI projects 
 - Creating a new AI/ML curriculum for the Humanities
